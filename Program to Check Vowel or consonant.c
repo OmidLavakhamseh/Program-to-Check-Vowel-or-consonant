@@ -1,4 +1,4 @@
-#include <stdio.h> // being enen or odd
+#include <stdio.h> 
 int main(){
 char letter;
 printf("Give me the letter:");
